@@ -1,2 +1,4 @@
 This is the first line of the code written in INDIA.
 This is Japan.
+New line added in India.
+CONFLICT RESOLVED
